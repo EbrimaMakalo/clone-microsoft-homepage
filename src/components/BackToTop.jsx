@@ -25,7 +25,7 @@ const BackToTop = () => {
   return <div>
 
     {backToTop && (
-        <p className='sm:fixed flex top-[92%] mx-3 right-3 bg-[#D9D9D9] px-40 py-2 sm:p-2 font-bold hover:bg-white hover:shadow' onClick = {scrollUp}><HiArrowUp className='mt-1 mr-1'/>Back to top</p>
+        <p className='sm:fixed flex top-[92%] mx-3 right-3 bg-[#D9D9D9] justify-center py-2 sm:p-2 font-bold hover:bg-white hover:shadow' onClick = {scrollUp}><HiArrowUp className='mt-1 mr-1'/>Back to top</p>
     )}
 
   </div>
