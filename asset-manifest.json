@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clone-microsoft-homepage/static/css/main.b035c74d.css",
+    "main.js": "/clone-microsoft-homepage/static/js/main.9545d002.js",
+    "static/media/image1.avif": "/clone-microsoft-homepage/static/media/image1.b839b58480eb540acd04.avif",
+    "static/media/image4.avif": "/clone-microsoft-homepage/static/media/image4.55025e398b0b322948a6.avif",
+    "static/media/introducing-bg.jpg": "/clone-microsoft-homepage/static/media/introducing-bg.b355742a99c15f8e8367.jpg",
+    "static/media/image3.avif": "/clone-microsoft-homepage/static/media/image3.384804fbec6b67259337.avif",
+    "static/media/imagecard7.jpg": "/clone-microsoft-homepage/static/media/imagecard7.dc5e0d8788aac4ab33ee.jpg",
+    "static/media/imagecard5.webp": "/clone-microsoft-homepage/static/media/imagecard5.ec24379bb738600b17f8.webp",
+    "static/media/image2.avif": "/clone-microsoft-homepage/static/media/image2.43a147236f9d0b7c77d7.avif",
+    "static/media/imagecard1.webp": "/clone-microsoft-homepage/static/media/imagecard1.3b078821dec4f3d5675e.webp",
+    "static/media/imagecard3.avif": "/clone-microsoft-homepage/static/media/imagecard3.9e400d1219748fdd4837.avif",
+    "static/media/imagecard8.webp": "/clone-microsoft-homepage/static/media/imagecard8.07e58273d2cfb8634646.webp",
+    "static/media/imagecard6.webp": "/clone-microsoft-homepage/static/media/imagecard6.59095c1010077bea2330.webp",
+    "static/media/imagecard2.webp": "/clone-microsoft-homepage/static/media/imagecard2.9da2c93638f2310879c1.webp",
+    "static/media/imagecard4.webp": "/clone-microsoft-homepage/static/media/imagecard4.6ace7884808b34cf3e19.webp",
+    "index.html": "/clone-microsoft-homepage/index.html",
+    "static/media/category-image3.webp": "/clone-microsoft-homepage/static/media/category-image3.be6f8bdc2de7855ff6a9.webp",
+    "static/media/category-image4.webp": "/clone-microsoft-homepage/static/media/category-image4.097c0be114705dd3b685.webp",
+    "static/media/category-image1.webp": "/clone-microsoft-homepage/static/media/category-image1.6aa4b3cc75c2c9977289.webp",
+    "static/media/category-image2.webp": "/clone-microsoft-homepage/static/media/category-image2.399a468225f8eb255937.webp",
+    "static/media/category-image5.webp": "/clone-microsoft-homepage/static/media/category-image5.14d4364ec5069bff1cff.webp",
+    "main.b035c74d.css.map": "/clone-microsoft-homepage/static/css/main.b035c74d.css.map",
+    "main.9545d002.js.map": "/clone-microsoft-homepage/static/js/main.9545d002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b035c74d.css",
+    "static/js/main.9545d002.js"
+  ]
+}
