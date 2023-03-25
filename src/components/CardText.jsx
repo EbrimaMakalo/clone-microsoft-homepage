@@ -10,7 +10,7 @@ const CardText = () => {
   return (
     <div className='mt-5'>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 px-10 sm:px-3 lg:mx-20'>
-            <div>
+            <div className='mb-10 lg:mb-0'>
                 <a href="" className='no-underline text-black'>
                     <img src={imagecard1} alt="/" />
                     <h2 className='pt-3 pb-2 text-3xl'>Save up to $300 on Surface Laptop 5</h2>
@@ -18,7 +18,7 @@ const CardText = () => {
                     <a href="" className='no-underline hover:underline'><p className='flex'><span className='hover:mr-1'>Shop Surface Laptop 5</span><FaChevronRight className='mt-1 ml-1' /></p></a>
                 </a>
             </div>
-            <div>
+            <div className='mb-10 lg:mb-0'>
                 <a href="" className='no-underline text-black'>
                     <img src={imagecard2} alt="/" />
                     <h2 className='pt-3 pb-2 text-3xl'>Up to $400 off select Surface Laptop Studio</h2>
@@ -26,7 +26,7 @@ const CardText = () => {
                     <a href="" className='no-underline hover:underline'><p className='flex'><span className='hover:mr-1'>Shop Surface Laptop 5</span><FaChevronRight className='mt-1 ml-1' /></p></a>
                 </a>            
             </div>
-            <div>
+            <div className='mb-10 lg:mb-0'>
                 <a href="" className='no-underline text-black'>
                     <img src={imagecard3} alt="/" />
                     <h2 className='pt-3 pb-2 text-3xl'>Power your adventure</h2>

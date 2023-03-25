@@ -18,7 +18,7 @@ const Navbar = () => {
                 <div className="md:hidden" onClick={handleClick}>
                     {!nav ? <HiMenu className="h-6 w-6  text-black/60" /> : <HiOutlineX className="h-6 w-6 text-black/60" />}            
                 </div>
-                <ul className='float-left flex space-x-5'>
+                <ul className='float-left flex sm:space-x-5'>
                     <li><a href="" className='text-black no-underline hover:border-b-2 hover:border-b-black'><img src={microsoft} className='h-[23px]' alt="/" /></a></li>
                     <li><a href="" className='text-black no-underline hover:border-b-2 hover:border-b-black hidden md:block'>Microsoft 365</a></li>
                     <li><a href="" className='text-black no-underline hover:border-b-2 hover:border-b-black hidden md:block'>Teams</a></li>
