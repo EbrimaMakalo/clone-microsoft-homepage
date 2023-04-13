@@ -8,7 +8,7 @@ import { FaChevronRight } from "react-icons/fa";
 
 const ForBusiness = () => {
   return (
-    <div className='mb-10 pt-10 sm:pt-0'>
+    <div className='mb-10 pt-36 md:pt-10'>
         <h1 className='px-10 sm:px-3 lg:mx-20 mb-3'>For business</h1>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 px-10 sm:px-3 lg:mx-20'>
             <div className='mb-10 lg:mb-0'>

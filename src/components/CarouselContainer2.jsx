@@ -14,12 +14,17 @@ const CarouselContainer2 = () => {
                 alt="First slide"
             />
             <Carousel.Caption className='xl:mb-10 2xl:mb-20 pr-[100px] md:pr-[200px] lg:pr-[250px] xl:pr-[400px] 2xl:pr-[600px]'>
-                <div className='text-black text-left'>
+                <div className='hidden md:block text-black text-left'>
                     <h3 className='text-3xl md:text-4xl'>Inclusion is Innovation</h3>
                     <p className='lg:my-5'>This Women's History Month, find out how reconnecting with her roots helped Microsoft employee and Cameroonian native Michele Luma spread her wings</p>
                     <button className='bg-indigo-600 hover:bg-indigo-700 text-white font-bold p-2 mt-2 mb-3'>Find out more</button>
                 </div>
             </Carousel.Caption>
+            <div className=' md:hidden p-4'>
+               <h3 className='text-3xl md:text-4xl'>Inclusion is Innovation</h3>
+                <p className='lg:my-5'>This Women's History Month, find out how reconnecting with her roots helped Microsoft employee and Cameroonian native Michele Luma spread her wings</p>
+                <button className='bg-indigo-600 hover:bg-indigo-700 text-white font-bold p-2 mt-2 mb-3'>Find out more</button>
+            </div>
         </Carousel.Item>
         <Carousel.Item interval={5000}>
             <img
@@ -28,12 +33,17 @@ const CarouselContainer2 = () => {
                 alt="Second slide"
             />
             <Carousel.Caption className='xl:mb-10 2xl:mb-20 pl-[100px] sm:pl-[150px] md:pl-[250px] lg:pl-[340px] xl:pl-[500px] 2xl:pl-[530px]'>
-                <div className='text-black text-left pt-10'>
+                <div className='hidden md:block text-black text-left pt-10'>
                     <h3 className='text-3xl md:text-4xl'>Meet the Feelings Monster</h3>
                     <p className='lg:my-5'>Learn how educators are using a furry character that lives within the Microsoft Reflect app to help students improve their emotional intelligence</p>
                     <button className='bg-indigo-600 hover:bg-indigo-700 text-white font-bold p-2 mb-2'>Read about Microsoft Reflect</button>
                 </div>
             </Carousel.Caption>
+            <div className='md:hidden p-4'>
+                <h3 className='text-3xl md:text-4xl'>Meet the Feelings Monster</h3>
+                <p className='lg:my-5'>Learn how educators are using a furry character that lives within the Microsoft Reflect app to help students improve their emotional intelligence</p>
+                <button className='bg-indigo-600 hover:bg-indigo-700 text-white font-bold p-2 mb-2'>Read about Microsoft Reflect</button>                
+            </div>
         </Carousel.Item>
     </Carousel>
   )

@@ -8,8 +8,8 @@ import imagecategory5 from '../assets/category-image5.webp';
 
 const MicrosofProducts = () => {
   return (
-    <div className='mt-32 mb-16 md:mx-10 lg:mx-20 2xl:mx-36'>
-        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 text-center text-[15px] justify-between'>
+    <div className=''>
+        <div className='mt-28 mb-16 md:mx-10 lg:mx-20 2xl:mx-36 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 text-center text-[15px] justify-between'>
             <div className='mb-3 sm:mb-0'>
                 <img src={imagecategory1} className='pl-52 sm:pl-40 md:pl-24' alt="" />
                 <p><a href="">Shop Surface devices</a></p>
