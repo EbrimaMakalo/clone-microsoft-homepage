@@ -76,7 +76,7 @@ const Footer = () => {
             <div className='xl:float-left'>
                 <a href="" className='no-underline hover:underline text-black'><p className='flex text-xs'><GiEarthAfricaEurope className='text-2xl' /><span className='ml-2 mt-1'>English (United States)</span></p></a>
             </div>
-            <div className='xl:float-right flex text-xs space-x-1 md:space-x-3 lg:space-x-5'>
+            <div className='xl:float-right sm:flex text-xs space-x-2 md:space-x-4 lg:space-x-6'>
                 <a href="" className=' no-underline hover:underline text-black'><p>Sitemap</p></a>
                 <a href="" className=' no-underline hover:underline text-black'><p>Contact Microsoft</p></a>
                 <a href="" className=' no-underline hover:underline text-black'><p>Privacy</p></a>
