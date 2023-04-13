@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clone-microsoft-homepage/static/css/main.f7254b7f.css",
-    "main.js": "/clone-microsoft-homepage/static/js/main.f1a57d58.js",
+    "main.css": "/clone-microsoft-homepage/static/css/main.289db182.css",
+    "main.js": "/clone-microsoft-homepage/static/js/main.0833403d.js",
     "static/media/image1.avif": "/clone-microsoft-homepage/static/media/image1.b839b58480eb540acd04.avif",
     "static/media/image4.avif": "/clone-microsoft-homepage/static/media/image4.55025e398b0b322948a6.avif",
     "static/media/introducing-bg.jpg": "/clone-microsoft-homepage/static/media/introducing-bg.b355742a99c15f8e8367.jpg",
@@ -21,11 +21,11 @@
     "static/media/category-image1.webp": "/clone-microsoft-homepage/static/media/category-image1.6aa4b3cc75c2c9977289.webp",
     "static/media/category-image2.webp": "/clone-microsoft-homepage/static/media/category-image2.399a468225f8eb255937.webp",
     "static/media/category-image5.webp": "/clone-microsoft-homepage/static/media/category-image5.14d4364ec5069bff1cff.webp",
-    "main.f7254b7f.css.map": "/clone-microsoft-homepage/static/css/main.f7254b7f.css.map",
-    "main.f1a57d58.js.map": "/clone-microsoft-homepage/static/js/main.f1a57d58.js.map"
+    "main.289db182.css.map": "/clone-microsoft-homepage/static/css/main.289db182.css.map",
+    "main.0833403d.js.map": "/clone-microsoft-homepage/static/js/main.0833403d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7254b7f.css",
-    "static/js/main.f1a57d58.js"
+    "static/css/main.289db182.css",
+    "static/js/main.0833403d.js"
   ]
 }
